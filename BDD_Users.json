@@ -1,0 +1,34 @@
+[
+    {
+        "ine": "02jn28nB2",
+        "nom": "Dan",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "18162673JDUC29",
+        "candidat": true,
+        "aVoter": true
+    },
+    {
+        "ine": "02jn33B3",
+        "nom": "Arthur",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "18162673JD23019",
+        "candidat": true,
+        "aVoter": true
+    },
+    {
+        "ine": "02jn44B44",
+        "nom": "Toto",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "18162673JDU432",
+        "candidat": false,
+        "aVoter": false
+    },
+    {
+        "ine": "02jn44B55",
+        "nom": "Titi",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "18162673CH32",
+        "candidat": false,
+        "aVoter": false
+    }
+]
