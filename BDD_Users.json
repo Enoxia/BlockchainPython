@@ -35,31 +35,5 @@
         "aVoter": true,
         "premiereConnexion": false
     },
-    {
-        "ine": "02jn44B44",
-        "nom": "Melanchon",
-        "mdp": "68830aef4dbfad181162f9251a1da51b",
-        "porte-feuille": "18162673JDU432",
-        "candidat": false,
-        "aVoter": true,
-        "premiereConnexion": false
-    },
-    {
-        "ine": "02jn44B44",
-        "nom": "Narine LePen",
-        "mdp": "68830aef4dbfad181162f9251a1da51b",
-        "porte-feuille": "18162673JDU432",
-        "candidat": false,
-        "aVoter": true,
-        "premiereConnexion": false
-    },
-    {
-        "ine": "02jn44B44",
-        "nom": "GMK",
-        "mdp": "68830aef4dbfad181162f9251a1da51b",
-        "porte-feuille": "18162673JDU432",
-        "candidat": false,
-        "aVoter": true,
-        "premiereConnexion": false
-    },  
+  
 ]
