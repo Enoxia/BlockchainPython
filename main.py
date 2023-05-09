@@ -15,10 +15,10 @@ import random
 import string
 
 #Variable for Local blockchain
-repo= "C:/Users/Dan WZ/Desktop/Yday/E-vote/"
-genesis_file="C:/Users/Dan WZ/Desktop/Yday/E-vote/e-vote-genesis.json"
-filename = "C:/Users/Dan WZ/Desktop/Yday/E-vote/e-vote-0.json"
-users = "C:/Users/Dan WZ/Desktop/Yday/E-vote/BDD_Users.json"
+repo= "/home/Bailly/"
+genesis_file="/home/Bailly"
+filename = "/home/Bailly"
+users = "/home/Bailly"
 prefix = "e-vote-"
 fileInscription=repo+"login.txt"
 fileblock = repo+prefix+"*"
