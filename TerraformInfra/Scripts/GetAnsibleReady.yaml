@@ -1,0 +1,17 @@
+#cloud-config
+ssh_pwauth: false
+
+users:
+- default
+- name: Bailly
+  gecos: Utilisateur pour déployer du Ansible 
+  groups: users,admin,wheel
+  sudo: ALL=(ALL) NOPASSWD:ALL
+  shell: /bin/bash
+  lock_passwd: false
+  ssh_authorized_keys:
+    - "public key here"
+ 
+runcmd:
+ - [ sudo, wget, "https://raw.githubusercontent.com/Bailly33/BlockchainPython/main/main.py", --output, /home/ ]
+ 
