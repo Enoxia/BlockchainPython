@@ -1,11 +1,21 @@
 [
     {
+        "ine": null,
+        "nom": "admin",
+        "mdp": "21232f297a57a5a743894a0e4a801fc3",
+        "porte-feuille": "admin",
+        "candidat": null,
+        "aVoter": null,
+        "premiereConnexion": false
+    },
+    {
         "ine": "02jn28nB2",
         "nom": "Dan",
         "mdp": "68830aef4dbfad181162f9251a1da51b",
         "porte-feuille": "18162673JDUC29",
         "candidat": true,
-        "aVoter": true
+        "aVoter": true,
+        "premiereConnexion": false
     },
     {
         "ine": "02jn33B3",
@@ -13,7 +23,8 @@
         "mdp": "68830aef4dbfad181162f9251a1da51b",
         "porte-feuille": "18162673JD23019",
         "candidat": true,
-        "aVoter": true
+        "aVoter": true,
+        "premiereConnexion": false
     },
     {
         "ine": "02jn44B44",
@@ -21,7 +32,8 @@
         "mdp": "68830aef4dbfad181162f9251a1da51b",
         "porte-feuille": "18162673JDU432",
         "candidat": false,
-        "aVoter": false
+        "aVoter": true,
+        "premiereConnexion": false
     },
     {
         "ine": "02jn44B55",
@@ -29,6 +41,43 @@
         "mdp": "68830aef4dbfad181162f9251a1da51b",
         "porte-feuille": "18162673CH32",
         "candidat": false,
-        "aVoter": false
+        "aVoter": true,
+        "premiereConnexion": false
+    },
+    {
+        "ine": "smdpo123LDKS",
+        "nom": "theo",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "zdcrrmdqxobf",
+        "candidat": false,
+        "aVoter": false,
+        "premiereConnexion": false
+    },
+    {
+        "ine": "1290DK28DJ",
+        "nom": "marius",
+        "mdp": "68830aef4dbfad181162f9251a1da51b",
+        "porte-feuille": "srmcoyfhhgnw",
+        "candidat": false,
+        "aVoter": true,
+        "premiereConnexion": false
+    },
+    {
+        "ine": "10DEFDHSK20",
+        "nom": "Jean Marie Le Pen",
+        "mdp": "0dec41285b5c92626fa74fa622326ab8",
+        "porte-feuille": "hszmxgvtfqiz",
+        "candidat": true,
+        "aVoter": false,
+        "premiereConnexion": true
+    },
+    {
+        "ine": "12FDP349D8FDP",
+        "nom": "Melanchon",
+        "mdp": "602c09222aca31ec9d38e4e2e4f13a00",
+        "porte-feuille": "gzsfizzmbbam",
+        "candidat": true,
+        "aVoter": false,
+        "premiereConnexion": true
     }
 ]
