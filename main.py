@@ -365,5 +365,5 @@ class Blockchain:
             else:
                 print("\33[31mEntrée non valide\n")
                 continue
-
+  
 e_vote=Blockchain()
