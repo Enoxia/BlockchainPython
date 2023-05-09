@@ -16,9 +16,9 @@ import string
 
 #Variable for Local blockchain
 repo= "/home/Bailly/"
-genesis_file="/home/Bailly"
-filename = "/home/Bailly"
-users = "/home/Bailly"
+genesis_file="/home/Bailly/e-vote-genesis.json"
+filename = "/home/Bailly/e-vote-0.json"
+users = "/home/Bailly/BDD_Users.json"
 prefix = "e-vote-"
 fileInscription=repo+"login.txt"
 fileblock = repo+prefix+"*"
