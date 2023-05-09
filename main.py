@@ -15,10 +15,10 @@ import random
 import string
 
 #Variable for Local blockchain
-repo= "/home/Bailly/"
-genesis_file="/home/Bailly/e-vote-genesis.json"
-filename = "/home/Bailly/e-vote-0.json"
-users = "/home/Bailly/BDD_Users.json"
+repo= "C:/Users/Dan WZ/Desktop/Yday/E-vote/"
+genesis_file="C:/Users/Dan WZ/Desktop/Yday/E-vote/e-vote-genesis.json"
+filename = "C:/Users/Dan WZ/Desktop/Yday/E-vote/e-vote-0.json"
+users = "C:/Users/Dan WZ/Desktop/Yday/E-vote/BDD_Users.json"
 prefix = "e-vote-"
 fileInscription=repo+"login.txt"
 fileblock = repo+prefix+"*"
@@ -365,5 +365,5 @@ class Blockchain:
             else:
                 print("\33[31mEntrée non valide\n")
                 continue
-  
+
 e_vote=Blockchain()
