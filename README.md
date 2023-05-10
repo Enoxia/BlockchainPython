@@ -112,14 +112,14 @@ What is your choice : 1: Send token | 2: See wallet
 
 # Démonstration :
 
-Après avoir téléchargé le dépôt, il faut initialiser Terraform avec la commande : 
-```terraform init```
+Après avoir téléchargé le dépôt, il faut initialiser Terraform avec la commande :  
+```$ terraform init```
 
-Une fois initialisé, nous pouvons valider la configuration et la syntaxe du code avec : 
-```terraform plan```
+Une fois initialisé, nous pouvons valider la configuration et la syntaxe du code avec :   
+```$ terraform plan```
 
-Si aucune erreur n'est retournée, nous pouvons déployer notre machine virtuelle avec la commande : 
-```terraform apply```
+Si aucune erreur n'est retournée, nous pouvons déployer notre machine virtuelle avec la commande :   
+```$ terraform apply```
 
 
 L'ensemble des avancées / problématiques du projet sont disponibles (en lecture seule) sur le Notion suivant : https://www.notion.so/Fil-Rouge-Blockchain-f5c6b70ee86940dd846711a1a397edcb
