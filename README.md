@@ -31,10 +31,7 @@ Pour construire notre projet, nous nous sommes basés sur les réflexions suivan
 - Pouvoir avoir un accès à la blockchain et à ses blocs
 - Vérifier l'anonymat de chaque bloc ; on ne doit pas savoir qui a voté pour qui
 - Eventuellement faire tourner notre application dans un réseau décentralisé (P2P)
-
-L'ensemble des avancées / problématiques du projet sont disponibles (en lecture seule) sur le Notion suivant : https://www.notion.so/Fil-Rouge-Blockchain-f5c6b70ee86940dd846711a1a397edcb
-
-
+- 
 
 
 # Réalisation du projet :
@@ -111,3 +108,18 @@ What is your choice : 1: Send token | 2: See wallet
 * Nous avons choisi Terraform pour déployer notre infrastructure
 * L'idée est de centraliser sur une machine virtuelle le script, et que chaque participant puisse s'y connecter et voter 
 * Terraform permet d'avoir une souplesse pour notre configuration, et nous permet à tout moment de pouvoir détruire la machine virtuelle créée
+
+
+# Démonstration :
+
+Après avoir téléchargé le dépôt, il faut initialiser Terraform avec la commande : 
+```terraform init```
+
+Une fois initialisé, nous pouvons valider la configuration et la syntaxe du code avec : 
+```terraform plan```
+
+Si aucune erreur n'est retournée, nous pouvons déployer notre machine virtuelle avec la commande : 
+```terraform apply```
+
+
+L'ensemble des avancées / problématiques du projet sont disponibles (en lecture seule) sur le Notion suivant : https://www.notion.so/Fil-Rouge-Blockchain-f5c6b70ee86940dd846711a1a397edcb
