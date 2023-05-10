@@ -98,15 +98,16 @@ What is your choice : 1: Send token | 2: See wallet
 },
 ```
 
-## #29/03 : Fusion Script/GUI
+## 29/03 : Fusion Script/GUI
 * Vérification de la présence des fichiers "genesis bloc" et "bloc 0" -> Evite de refaire l'initialisation
 * Ajout des résultats, gestion des erreurs + modifications post-vote
 * Inscription du candidat + Modification MDP première connexion
 
 ## 12/04 : Proof Of Authority ou renoncer à la décentralisation
 * C'est la nature sélective des noeuds ainsi que leur nombre réduit / défini qui ne permet pas la décentralisation
-* Dans le cadre de notre projet, nous avons décidé d'abandonner notre développement du réseau P2P, et nous avons décidé d
+* Dans le cadre de notre projet, nous avons décidé d'abandonner le développement du réseau P2P, et nous avons choisi de mettre à disposition notre application sur une machine virtuelle en ligne
 
-
-
-
+## 19/04 : Déploiement automatisé via Terraform 
+* Nous avons choisi Terraform pour déployer notre infrastructure
+* L'idée est de centraliser sur une machine virtuelle le script, et que chaque participant puisse s'y connecter et voter 
+* Terraform permet d'avoir une souplesse pour notre configuration, et nous permet à tout moment de pouvoir détruire la machine virtuelle créée
