@@ -121,5 +121,6 @@ Une fois initialisé, nous pouvons valider la configuration et la syntaxe du cod
 Si aucune erreur n'est retournée, nous pouvons déployer notre machine virtuelle avec la commande :   
 ```$ terraform apply```
 
+Une fois déployée, c'est cette machine virtuelle qui jouera le rôle "d'entitée de confiance"
 
 L'ensemble des avancées / problématiques du projet sont disponibles (en lecture seule) sur le Notion suivant : https://www.notion.so/Fil-Rouge-Blockchain-f5c6b70ee86940dd846711a1a397edcb
