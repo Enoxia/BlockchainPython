@@ -1,6 +1,6 @@
 # Projet Blockchain
 
-Ce projet à pour but de simuler un système de vote (élection) en utilisant la technologie blockchain. Le projet devra retrouver tous les avantages d'une blockchain (immuabilité, anonymat / pseudonymat, décentralisation)
+Ce projet à pour but de simuler un système de vote fictif (élection) en utilisant la technologie blockchain. Le projet devra retrouver tous les avantages d'une blockchain (immuabilité, anonymat / pseudonymat, décentralisation)
 
 
 # Délimitation du projet : choix du consensus
