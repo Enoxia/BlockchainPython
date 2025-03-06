@@ -31,7 +31,6 @@ Pour construire notre projet, nous nous sommes basés sur les réflexions suivan
 - Pouvoir avoir un accès à la blockchain et à ses blocs
 - Vérifier l'anonymat de chaque bloc ; on ne doit pas savoir qui a voté pour qui
 - Eventuellement faire tourner notre application dans un réseau décentralisé (P2P)
-- 
 
 
 # Réalisation du projet :
